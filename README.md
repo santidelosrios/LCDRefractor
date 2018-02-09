@@ -1,6 +1,6 @@
 # LCDRefractor
 Prueba para PSL.
-Santiago De Los Ros
+Santiago De Los Ríos
 
 Librerías necesarias: 
 
